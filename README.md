@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jw4949
+- 👋 Hi, I’m Janis Wolf!
 - 👀 I’m interested in Web Design, Filmmaking and Photogrpahy.
 - 🌱 I’m currently studying at OST in Switzerland.
 - 📫 How to reach me: janiswolf.com
