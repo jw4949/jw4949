@@ -1,7 +1,11 @@
+# Hi
+
 - 👋 Hi, I’m Janis Wolf!
 - 👀 I’m interested in Web Design 👨‍💻, Filmmaking 🎥 and Photogrpahy 📸.
 - 🌱 I’m currently studying at OST in Switzerland 👨‍🎓.
 - 📫 Contact me here hello@janiswolf.com
+
+
 
 ![Janis' GitHub stats](https://github-readme-stats.vercel.app/api?username=jw4949&show_icons=true&theme=radical)
 
