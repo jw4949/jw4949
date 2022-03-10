@@ -9,4 +9,4 @@
 
 ---
 
-![Janis' GitHub stats](https://github-readme-stats.vercel.app/api?username=jw4949&show_icons=true&theme=radical)
+![Janis' GitHub stats](https://github-readme-stats.vercel.app/api?username=jw4949&show_icons=true&theme=dracula)
