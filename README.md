@@ -5,7 +5,7 @@
 - 👀 I’m interested in Web Design 👨‍💻, Cyber Security 💻, Filmmaking 🎥 and Photogrpahy 📸
 - Co Founder of [Visure GmbH](https://www.visure.ch) 🎬
 - Personal Website [janiswolf.com](https://www.janiswolf.com)
-- 📫 Contact me here hello@janiswolf.com
+- 📫 Contact me here info@janiswolf.com
 
 ---
 
