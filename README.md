@@ -1,7 +1,8 @@
 # Hi
 
 - 👋 Hi, I’m Janis Wolf!
-- 🌱 I’m currently studying IT at OST in Switzerland 👨‍🎓
+- 🌱 I have a bachelors degree in computer science (cyber security) from FH OST in Switzerland 👨‍🎓
+- 📍 Currently self employed & open to work ;-)
 - 👀 I’m interested in Web Design 👨‍💻, Cyber Security 💻, Filmmaking 🎥 and Photogrpahy 📸
 - Co Founder of [Visure GmbH](https://www.visure.ch) 🎬
 - Personal Website [janiswolf.com](https://www.janiswolf.com)
